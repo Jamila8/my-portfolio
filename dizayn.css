@@ -1,0 +1,55 @@
+
+.container {
+Width: 550px;
+Height: 600px;
+Box-shadow: 4px 8px 12px rgba(0,0,0,0.8);
+Font-family: Arial, sans-serif;
+Background: #CFD3FC;
+Margin: 20px auto;
+
+}
+Header {
+Background: linear-gradient(to right, purple, indigo);
+Color: red;
+Text-align: center;
+Padding: 2rem;
+Clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 100%, 0 80%);
+}
+
+H1 {
+Color: #FDE8E8;
+Text-align: center; 
+Text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.center-image {
+Width: 250px;
+Height: 130px;
+Border-radius: 10%;
+Display: block;
+Margin: 20px auto;
+}
+H3 {
+Text-transform: uppercase;
+Padding: 20px;
+Line-height: 0.3;
+Margin-bottom: 5px;
+Color: #660A23;
+Text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+Letter-spacing: 1px;
+}
+P {
+Font-size: 16px;
+Color: #800A2D;
+Padding-left: 30px;
+Margin-top: 0;
+}
+Footer {
+Margin: 0;
+White-space: nowrap;
+Background-color: #EDEDFD;
+Margin-top: 100px;
+Padding: 15px 0;
+Font-size: 14px;
+}
+
